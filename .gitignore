@@ -1,0 +1,8 @@
+
+uploads/
+BORRAME/
+static/
+venv/
+outputs/
+logs/
+__pycache__/
